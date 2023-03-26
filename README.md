@@ -1,0 +1,1 @@
+sveltekit and tailwind :D
